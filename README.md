@@ -5,5 +5,7 @@ Proyecto en construcción.
 Para ejecutar el sistema,debes poner:
 
  **npm install react**
+
+ sistema nuevo de registro
  
 
